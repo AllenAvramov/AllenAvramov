@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Allen+Avramov!;" />
     
 </h1>
-
-
-
+<div align="center">
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+ </div>
 <h3 align="center">A passionate software developer from Israel </h3>
 
 <br/>
@@ -65,7 +65,6 @@
 
 <br/><br/>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <hr/>
 
