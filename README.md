@@ -2,7 +2,6 @@
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AllenAvramov.AllenAvramov" />
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Allen+Avramov!;" />
     
@@ -65,6 +64,8 @@
 </div>
 
 <br/><br/>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <hr/>
 
