@@ -13,11 +13,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a API project**
+ 🔭 I’m currently working in **BMC Software as QA Automation engineer**
  
- 🌱 I’m currently learning **TypeScript, React, Node.js**
+ 🌱 I’m currently learning **Jenkins**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -37,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,idea" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,c,cpp,cs,java,mysql,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,c,cpp,cs,java,mysql,androidstudio, jenkins" /><br>
 </div>
 
 <br/>
